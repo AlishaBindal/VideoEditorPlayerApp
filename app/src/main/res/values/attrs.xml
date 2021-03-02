@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <declare-styleable name="CustomVideoPlayer">
+        <attr name="video_link" format="string" />
+        <attr name="sub_title_link" format="string" />
+        <attr name="zero_state_message" format="string" />
+    </declare-styleable>
+</resources>

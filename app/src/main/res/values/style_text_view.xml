@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CustomTextAppearance" parent="android:TextAppearance">
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <!-- Text Views -->
+    <style name="TextView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <!-- Color_FFFFFF text START  -->
+    <style name="TextView.Color_FFFFFF">
+        <item name="android:textColor">@color/color_FFFFFF</item>
+    </style>
+
+    <style name="TextView.Color_FFFFFF.Font_8sp">
+        <item name="android:textSize">@dimen/font_8sp</item>
+    </style>
+
+    <style name="TextView.Color_FFFFFF.Font_12sp">
+        <item name="android:textSize">@dimen/font_12sp</item>
+    </style>
+
+    <style name="TextView.Color_FFFFFF.Font_14sp">
+        <item name="android:textSize">@dimen/font_14sp</item>
+    </style>
+
+
+    <style name="TextView.Color_FFFFFF.Font_16sp">
+        <item name="android:textSize">@dimen/font_16sp</item>
+    </style>
+
+
+    <style name="TextView.Color_FFFFFF.Font_20sp">
+        <item name="android:textSize">@dimen/font_20sp</item>
+    </style>
+
+    <style name="TextView.Color_FFFFFF.Font_24sp">
+        <item name="android:textSize">@dimen/font_24sp</item>
+    </style>
+
+    <style name="TextView.Color_FFFFFF.Font_32sp">
+        <item name="android:textSize">@dimen/font_32sp</item>
+    </style>
+
+
+    <style name="TextView.Color_FFFFFF.Font_44sp">
+        <item name="android:textSize">@dimen/font_44sp</item>
+    </style>
+
+    <!-- Color_FFFFFF text END -->
+
+    <!-- Color_373737 text START  -->
+    <style name="TextView.Color_373737">
+        <item name="android:textColor">@color/color_373737</item>
+    </style>
+
+    <style name="TextView.Color_373737.Font_8sp">
+        <item name="android:textSize">@dimen/font_8sp</item>
+    </style>
+
+
+    <style name="TextView.Color_373737.Font_12sp">
+        <item name="android:textSize">@dimen/font_12sp</item>
+    </style>
+
+    <style name="TextView.Color_373737.Font_14sp">
+        <item name="android:textSize">@dimen/font_14sp</item>
+    </style>
+
+
+    <style name="TextView.Color_373737.Font_16sp">
+        <item name="android:textSize">@dimen/font_16sp</item>
+    </style>
+
+
+    <style name="TextView.Color_373737.Font_20sp">
+        <item name="android:textSize">@dimen/font_20sp</item>
+    </style>
+
+
+    <style name="TextView.Color_373737.Font_24sp">
+        <item name="android:textSize">@dimen/font_24sp</item>
+    </style>
+
+
+    <style name="TextView.Color_373737.Font_32sp">
+        <item name="android:textSize">@dimen/font_32sp</item>
+    </style>
+
+    <style name="TextView.Color_373737.Font_44sp">
+        <item name="android:textSize">@dimen/font_44sp</item>
+    </style>
+
+    <!-- Color_373737 text END -->
+
+    <!-- Color_979797 text START  -->
+    <style name="TextView.Color_979797">
+        <item name="android:textColor">@color/color_979797</item>
+    </style>
+
+    <style name="TextView.Color_979797.Font_8sp">
+        <item name="android:textSize">@dimen/font_8sp</item>
+    </style>
+
+    <style name="TextView.Color_979797.Font_12sp">
+        <item name="android:textSize">@dimen/font_12sp</item>
+    </style>
+
+    <style name="TextView.Color_979797.Font_14sp">
+        <item name="android:textSize">@dimen/font_14sp</item>
+    </style>
+
+
+    <style name="TextView.Color_979797.Font_16sp">
+        <item name="android:textSize">@dimen/font_16sp</item>
+    </style>
+
+
+    <style name="TextView.Color_979797.Font_20sp">
+        <item name="android:textSize">@dimen/font_20sp</item>
+    </style>
+
+
+    <style name="TextView.Color_979797.Font_24sp">
+        <item name="android:textSize">@dimen/font_24sp</item>
+    </style>
+
+
+    <style name="TextView.Color_979797.Font_32sp">
+        <item name="android:textSize">@dimen/font_32sp</item>
+    </style>
+
+
+    <style name="TextView.Color_979797.Font_44sp">
+        <item name="android:textSize">@dimen/font_44sp</item>
+    </style>
+
+    <!-- Color_979797 text END -->
+
+    <!-- Color_CDCCCC text START  -->
+    <style name="TextView.Color_CDCCCC">
+        <item name="android:textColor">@color/color_CDCCCC</item>
+    </style>
+
+    <style name="TextView.Color_CDCCCC.Font_8sp">
+        <item name="android:textSize">@dimen/font_8sp</item>
+    </style>
+
+    <style name="TextView.Color_CDCCCC.Font_12sp">
+        <item name="android:textSize">@dimen/font_12sp</item>
+    </style>
+
+    <style name="TextView.Color_CDCCCC.Font_14sp">
+        <item name="android:textSize">@dimen/font_14sp</item>
+    </style>
+
+    <style name="TextView.Color_CDCCCC.Font_16sp">
+        <item name="android:textSize">@dimen/font_16sp</item>
+    </style>
+
+
+    <style name="TextView.Color_CDCCCC.Font_20sp">
+        <item name="android:textSize">@dimen/font_20sp</item>
+    </style>
+
+
+    <style name="TextView.Color_CDCCCC.Font_24sp">
+        <item name="android:textSize">@dimen/font_24sp</item>
+    </style>
+
+
+    <style name="TextView.Color_CDCCCC.Font_32sp">
+        <item name="android:textSize">@dimen/font_32sp</item>
+    </style>
+
+    <style name="TextView.Color_CDCCCC.Font_44sp">
+        <item name="android:textSize">@dimen/font_44sp</item>
+    </style>
+
+    <!-- Light Gray Color text END -->
+</resources>

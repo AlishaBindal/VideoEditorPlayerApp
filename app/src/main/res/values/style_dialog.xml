@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Dialog -->
+    <style name="dialog_theme" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowIsFloating">false</item>
+    </style>
+
+    <style name="dialog_animation_enter_bottom_up_out_bottom_down">
+        <item name="android:windowEnterAnimation">@anim/dialog_animation_slide_up</item>
+        <item name="android:windowExitAnimation">@anim/dialog_animation_slide_down</item>
+    </style>
+
+    <style name="dialog_animation_enter_down_out_up">
+        <item name="android:windowEnterAnimation">@anim/dialog_animation_top_slide_down</item>
+        <item name="android:windowExitAnimation">@anim/dialog_animation_top_sliode_up</item>
+    </style>
+
+    <style name="dialog_theme_custom_alert" parent="dialog_theme" />
+
+    <style name="dialog_theme_progress" parent="dialog_theme" />
+
+    <style name="dialog_theme_success" parent="dialog_theme">
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowAnimationStyle">@style/dialog_animation_enter_down_out_up</item>
+    </style>
+
+</resources>

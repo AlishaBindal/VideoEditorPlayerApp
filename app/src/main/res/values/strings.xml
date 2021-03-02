@@ -1,0 +1,37 @@
+<resources>
+    <!-- Network error messages -->
+    <string name="error_unexpected_error">Something went wrong. Please try again later</string>
+    <string name="error_bad_connection_try_again">Bad connectivity, please try again</string>
+    <string name="error_remote_server_failed">Application server could not respond. Please try later</string>
+    <string name="error_paring">Parsing error</string>
+    <string name="error_internet_not_connected">Please check your internet connection or try again later.</string>
+
+
+    <!-- Error Messages -->
+    <string name="text_error_title">Error!!</string>
+    <string name="error_session_expired">Session expired. Please login again.</string>
+    <string name="error_fb_login_failed">Facebook login failed!!</string>
+    <string name="error_video_too_large">We\'re sorry, this video is too large. Please compress it or choose another.</string>
+    <string name="error_device_rooted">This device is rooted. We are not responsible for any kind of data loss and hack. Use it at your own risk!!</string>
+    <string name="text_retry">Retry</string>
+    <string name="text_exit">Exit</string>
+    <string name="text_ok">Ok</string>
+    <string name="text_proceed">Proceed</string>
+    <string name="text_loading">Loading…</string>
+    <string name="text_update">Update</string>
+
+    <string name="text_permission_info_heading_gallery">Allow us to access\nyour camera roll</string>
+    <string name="text_permission_info_sub_heading_gallery">This will let you upload existing photos and videos that are stored on your phone.</string>
+    <string name="text_enable_camera_roll">Enable Camera Roll</string>
+    <string name="text_enable_camera_roll_msg">If you don\'t enable access to storage, you won\'t be able to upload photos and videos.</string>
+
+    <string name="text_permission_info_heading_camera">Allow us to access\nyour camera</string>
+    <string name="text_permission_info_sub_heading_camera">To take photos and videos for use in the app, you need to allow access to your camera.</string>
+    <string name="text_enable_camera">Enable Camera and Storage</string>
+    <string name="text_enable_camera_msg">If you don\'t enable access to camera &amp; storage, you won\'t be able to take photos and videos.</string>
+    <string name="text_continue">Continue</string>
+
+    <string name="text_go_to_settings">Go To Settings</string>
+    <string name="text_not_now">Not Now</string>
+
+</resources>

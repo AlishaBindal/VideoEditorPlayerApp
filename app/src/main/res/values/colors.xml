@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#FF0266</color>
+    <color name="colorPrimaryDark">#FF0266</color>
+    <color name="colorAccent">@color/color_000000</color>
+
+    <!-- App Color -->
+    <color name="color_FFFFFF">#FFFFFF</color>
+    <color name="color_F6F6F6">#F6F6F6</color>
+    <color name="color_CDCCCC">#CDCCCC</color>
+    <color name="color_979797">#979797</color>
+    <color name="color_373737">#373737</color>
+    <color name="color_676767">#676767</color>
+    <color name="color_D37014">#D37014</color>
+    <color name="color_FFC200">#FFC200</color>
+    <color name="color_FF0000">#cc0000</color>
+    <color name="color_3B5998">#3B5998</color>
+    <color name="color_000000">#000000</color>
+    <color name="color_000000_00_alpha">#00000000</color>
+    <color name="color_228DC5_30_alpha">#30228DC5</color>
+    <color name="color_000000_90_alpha">#90000000</color>
+    <color name="color_DBDBDB">#DBDBDB</color>
+    <color name="white_less_dark">#F7F7F7</color>
+    <color name="color_212d45">#212D45</color>
+    <color name="transparent">#0000</color>
+    <color name="gray_text">#B4B4B4</color>
+    <color name="gray_medium">#aaaaaa</color>
+
+    <color name="color_C8E7FE">#C8E7FE</color>
+    <color name="color_202f43">#202f43</color>
+    <color name="color_27AE60">#27AE60</color>
+
+    <color name="button_disabled_color">@color/color_CDCCCC</color>
+</resources>
