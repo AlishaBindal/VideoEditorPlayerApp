@@ -33,12 +33,10 @@ public class SystemPermissionActivity extends BaseActivity {
      */
     public static final int CAMERA = 1;
 
-
     private static final int PERMISSION_REQ_CODE = 100;
     private static final int REQUEST_CODE_APP_SETTING = 101;
     private static final int REQUEST_CODE_CHECK_LOCATION_SETTINGS = 102;
     private static final String[] WRITE_EXTERNAL_STORAGE_PERMISSION = {Manifest.permission.WRITE_EXTERNAL_STORAGE};
-
     private static final String[] CAMERA_PERMISSION = {Manifest.permission.CAMERA, Manifest.permission.WRITE_EXTERNAL_STORAGE};
     private static final String EXTRA_PERMISSION_TYPE = "extra_permission_type";
     private static final String EXTRA_FIRST_NAME = "extra_first_name";
